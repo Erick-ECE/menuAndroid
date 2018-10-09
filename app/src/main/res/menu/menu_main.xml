@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/menu_group_main"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/menu_first_option"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="First Option" />
+
+        <item
+            android:id="@+id/menu_second_option"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="Second Option" />
+
+        <item
+            android:id="@+id/menu_third_option"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="Third Option" />
+
+    </group>
+
+</menu>
